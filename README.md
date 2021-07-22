@@ -1,8 +1,8 @@
 # Catamaran
 This is the repo of "CATAMARAN: A Cross-lingual Long Text Abstractive Summarization Dataset"
 
-Catamaran
-|_  CATAMARAN_Samples.json  # A CATAMARAN sample that contains several text-summary pairs. If you want to get access of the whole dataset, please contact Littlered_Lynn@outlook.com
+
+    CATAMARAN_Samples.json  # A CATAMARAN sample that contains several text-summary pairs. If you want to get access of the whole dataset, please contact Littlered_Lynn@outlook.com
 
     Crawler.py  # The crawler script of New York Times Chinese
     
